@@ -4,4 +4,4 @@ gitの練習用プロジェクト
 gitのテスト
 
 ##クレジット
-(C)2016 myname
+(C)2016 takahashi
